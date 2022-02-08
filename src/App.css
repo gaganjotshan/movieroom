@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+
+.app {
+  text-align: center;
+}
+
+.app__body {
+  /* display: flex; */
+}
+
+th {
+  border-bottom: 5px solid black;
+}
+
+td {
+  border-bottom: 1px solid #ddd;
+}
